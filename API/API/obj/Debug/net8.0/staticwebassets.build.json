@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "8MypI0xlz9GILPd8urYG2B/U1L4V7oYxDrDOfRqPkWc=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "D:\\Năm 3\\Dot.Net\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Năm 3\\Dot.Net\\API\\API\\wwwroot\\images\\2023-04-11.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Năm 3\\Dot.Net\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/2023-04-11.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2023-04-11.png"
+    },
+    {
+      "Identity": "D:\\Năm 3\\Dot.Net\\API\\API\\wwwroot\\images\\2023-05-10 (1).png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Năm 3\\Dot.Net\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/2023-05-10 (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2023-05-10 (1).png"
+    }
+  ]
+}
